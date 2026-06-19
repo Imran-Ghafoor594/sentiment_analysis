@@ -1,0 +1,5 @@
+accuracy,macro_f1,weighted_f1,train_time,inference_time,Configuration Model Matrix
+1.0,1.0,1.0,0.0199582576751709,0.00041675567626953125,Logistic Regression with BOW
+1.0,1.0,1.0,0.0031507015228271484,0.00030612945556640625,Multinomial Naive Bayes with BOW
+1.0,1.0,1.0,0.015856027603149414,0.0003254413604736328,Logistic Regression with TFIDF
+1.0,1.0,1.0,0.002630949020385742,0.0002772808074951172,Multinomial Naive Bayes with TFIDF
